@@ -1,0 +1,11 @@
+{
+  "name": "jsfiltro",
+  "version": "1.0.0",
+  "description": "Teste Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Renan Urbano",
+  "license": "ISC"
+}
